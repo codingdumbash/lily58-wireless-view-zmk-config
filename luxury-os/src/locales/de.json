@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "heritage": "Erbe",
+    "bespoke": "Bespoke",
+    "women": "Damen",
+    "fabrics": "Stoffe",
+    "atelier": "Atelier",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "eyebrow": "Präsidiales Erbe seit 1972",
+    "headline": "Gekleidet in\nStille und\nMacht",
+    "subheadline": "Das begehrteste Maßschneider-Atelier der Welt. Wo Staatskunst auf handwerkliche Meisterschaft trifft.",
+    "cta_primary": "Anzug in Auftrag geben",
+    "cta_secondary": "Das Atelier entdecken"
+  },
+  "manifesto": {
+    "eyebrow": "Der Senseman-Standard",
+    "headline": "Ein Anzug ist keine Kleidung.\nEr ist Architektur.",
+    "body": "Seit über fünf Jahrzehnten kleidet Senseman die Architekten der Zivilisation — Staatsoberhäupter, souveräne Investoren und visionäre Gründer, die verstehen, dass wahre Autorität getragen, nicht erklärt wird.",
+    "stat1_num": "50+",
+    "stat1_label": "Jahre präsidiales Ankleiden",
+    "stat2_num": "3.200+",
+    "stat2_label": "Bespoke-Aufträge geliefert",
+    "stat3_num": "48",
+    "stat3_label": "Stunden Handwerkskunst pro Anzug"
+  },
+  "heritage": {
+    "eyebrow": "Präsidiales Erbe",
+    "headline": "Geboren in den Korridoren\ndes Einflusses",
+    "body": "Unser Gründungsatelier entstand aus den anspruchsvollsten Sälen der diplomatischen Macht. Senseman wurde nicht als Modehaus konzipiert, sondern als private Institution — ein vertraulicher Dienst für jene, die das geopolitische Gefüge unserer Ära formen.",
+    "pull_quote": "\"Der Anzug macht nicht den Mann. Der richtige Anzug enthüllt den Mann, der bereits existierte.\""
+  },
+  "services": {
+    "eyebrow": "Auftragskategorien",
+    "headline": "Die vier Säulen\ndes Ateliers",
+    "bespoke_title": "Vollständiges Bespoke",
+    "bespoke_desc": "Der Gipfel des maßgeschneiderten Luxus. Ihr persönliches Schnittmuster, von Grund auf neu erstellt.",
+    "mtm_title": "Maßgefertigt",
+    "mtm_desc": "Ein Meisterwerk, das an Ihre genauen Maße angepasst wird — in vier Wochen geliefert.",
+    "corporate_title": "Unternehmensgarderobe",
+    "corporate_desc": "Strategische Garderobenarchitektur für Führungsteams.",
+    "occasion_title": "Festliche und Staatskleidung",
+    "occasion_desc": "Präsidentielle Amtseinführungen, diplomatische Empfänge und souveräne Zeremonien."
+  },
+  "women": {
+    "eyebrow": "Damen Bespoke",
+    "headline": "Macht hat\nkeine Größe.",
+    "subheadline": "Die Petite Gründerinnen-Edition",
+    "body": "Entworfen exklusiv für die Gründerin mit 1,50 m, die die Regeln des Raums neu schreibt. Unser Liquid Drape-System schafft vertikale Proportionen durch architektonische Nahtplatzierung.",
+    "pillar1_title": "Vertikale Architektur",
+    "pillar1_desc": "Hochbrechende Revers, verlängerte Rumpfpaneele und präzise Saumgeometrie.",
+    "pillar2_title": "Liquid Drape System",
+    "pillar2_desc": "Superfeine Wolle unter 150s, gebondete Seidenfutter und schwebende Leinwandkonstruktion.",
+    "pillar3_title": "Die Gründerinnen-Anprobe",
+    "pillar3_desc": "Eine dreistündige private Beratung, die vollständig der visuellen Autorität gewidmet ist.",
+    "cta": "Gründerinnen-Anprobe buchen"
+  },
+  "fabrics": {
+    "eyebrow": "Stoff-Herkunft",
+    "headline": "Berühren Sie den Ursprung\nder Exzellenz",
+    "instruction": "Wählen Sie einen Stoff, um seine Herkunft zu erkunden",
+    "zegna_title": "Ermenegildo Zegna Trofeo",
+    "zegna_origin": "Trivero, Italienische Alpen",
+    "zegna_desc": "In der Höhe der Region Biella seit 1910 gewebt, repräsentiert Zegna Trofeo den Gipfel der Wollkunst.",
+    "zegna_weight": "220–260 g/m²",
+    "zegna_micron": "14,5 Mikron",
+    "scabal_title": "Scabal Golden Bale",
+    "scabal_origin": "Brüssel, Belgien",
+    "scabal_desc": "Gegründet 1938, repräsentiert Scabals Golden Bale-Kollektion den Höhepunkt sartorialer Innovation.",
+    "scabal_weight": "180–220 g/m²",
+    "scabal_micron": "11,5 Mikron",
+    "holland_title": "Holland & Sherry",
+    "holland_origin": "Huddersfield, England",
+    "holland_desc": "Der älteste überlebende Tuchhändler in der Lieferkette der Savile Row, exklusiv für Staatsoberhäupter seit 1836.",
+    "holland_weight": "260–320 g/m²",
+    "holland_micron": "15,5 Mikron"
+  },
+  "omnibot": {
+    "greeting": "Guten Abend. Ich bin Ihr persönlicher Senseman-Concierge.",
+    "subtitle": "Wie kann ich Ihnen heute dienen?",
+    "placeholder": "Fragen zu Stoffen, Anproben oder Aufträgen...",
+    "channels": "Oder verbinden Sie sich über",
+    "commission": "Einen Anzug bestellen",
+    "schedule": "Eine Anprobe planen",
+    "fabrics_btn": "Stoffe erkunden",
+    "typing": "Ihr Concierge verfasst eine Antwort..."
+  },
+  "contact": {
+    "eyebrow": "Das Atelier",
+    "headline": "Ein Termin\nist eine\nprivate Angelegenheit.",
+    "body": "Wir halten keine Verfügbarkeit für Laufkundschaft vor. Jede Beratung wird durch Empfehlung oder direkte private Kommunikation arrangiert.",
+    "cta": "Eine Einführung anfordern",
+    "address_label": "Haupt-Atelier",
+    "hours_label": "Nur nach Terminvereinbarung",
+    "hours": "Montag – Samstag\n10:00 – 19:00"
+  },
+  "footer": {
+    "tagline": "Seit 1972 kleiden wir die Architekten der Zivilisation.",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen",
+    "appointments": "Termine"
+  }
+}
